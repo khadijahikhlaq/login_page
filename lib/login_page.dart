@@ -23,7 +23,7 @@ void main() {
               margin: EdgeInsets.only(
                 top: 20,
               ),
-              child: Image.asset("my_assets/splash_logo@1x.png"),
+              child: Image.asset("my_assets/logo.png"),
             ),
           ),
           Expanded(
